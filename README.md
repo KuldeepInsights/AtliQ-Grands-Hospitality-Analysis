@@ -70,5 +70,12 @@ Boost Bangalore Performance: Investigate low occupancy and successful booking ra
 
 Understand 'Others' Payment Method: Analyze customer preferences and optimize payment processing for market advantage.
 
-By leveraging these insights, AtliQ Grands can refine its business strategies, enhance customer satisfaction, and drive sustainable growth. 🌟
+By leveraging these insights, AtliQ Grands can refine its business strategies, enhance customer satisfaction, and drive sustainable growth. 
+
+
+Tools:* Python, Pandas, Matplotlib | 
+Domains:* Hospitality, Revenue Analytics, Operational Strategy  
+
+-----------
+
 
