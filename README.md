@@ -72,10 +72,15 @@ Understand 'Others' Payment Method: Analyze customer preferences and optimize pa
 
 By leveraging these insights, AtliQ Grands can refine its business strategies, enhance customer satisfaction, and drive sustainable growth. 
 
+⚙️ Technical Skills :
+✅ Python (Pandas, Matplotlib) for data processing and visualization.
+✅ Data Cleaning & Transformation – Handling missing values and outliers, merging datasets.
+✅ Statistical Analysis – Aggregating data to compute key business metrics.
+✅ Data Visualization – Creating charts to present insights clearly.
 
-Tools:* Python, Pandas, Matplotlib | 
-Domains:* Hospitality, Revenue Analytics, Operational Strategy  
-
------------
+💡 Soft Skills :
+🌟 Analytical Thinking – Extracting meaningful trends for business insights.
+📊 Attention to Detail – Ensuring data accuracy and integrity.
+🚀 Communication Skills – Presenting findings with structured visualizations.
 
 
